@@ -175,7 +175,7 @@ h1 {
   border: 10px solid #e5e3e3;
   border-top-color: #484748;
   border-radius: 50%;
-  animation: loading 1s linear infinite;
+  animation: loading 4s linear infinite;
 
 }
 
@@ -203,7 +203,6 @@ h1 {
   border: none;
   outline: none;
   background-color: #605f80;
-  /* background-color: #747a98; */
   color: white;
   cursor: pointer;
   padding: 15px;

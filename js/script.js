@@ -8,23 +8,20 @@ function googleTranslateElementInit() {
 
 
 // <!-- ------------------------loading spinner -->
-
-
-
-
 window.addEventListener("load", () => {
   const loader = document.querySelector(".loader");
-  loader.classList.add("loader-hidden");
 
-  loader.addEventListener("transitionend", () => {
-    document.body.removeChild("loader");
-  })
-})
+  if (loader) {
+    loader.classList.add("loader-hidden");
+
+    loader.addEventListener("transitionend", () => {
+      document.body.removeChild(loader);
+    });
+  }
+});
 
 
 // ------------------------------------------------------------------------------
-
-
 
 //    <!-- Back to top button -->
 
