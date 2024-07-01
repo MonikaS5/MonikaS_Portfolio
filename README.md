@@ -8,6 +8,7 @@ I’m **Computer Engineering graduate**, a motivated and enthusiastic entry-leve
 1. Todo List Application
 2. Address Book Application
 3. Social Media Blog Application
+4. JWT Authentication
 
 ### React Applications
 1. Form Application
