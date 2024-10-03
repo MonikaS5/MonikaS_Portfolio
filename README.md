@@ -1,6 +1,6 @@
 # Monika Portfolio
 
-I’m **Computer Engineering graduate**, a motivated and enthusiastic entry-level MERN stack developer with a strong foundation in web development, problem-solving skills, and a keen interest in creating efficient and scalable web applications. I pursued Diploma in Web Page Designing and Development Program Certified by Government of India (BECIL) and Diploma in UI/UX Front End Web Development. Proficient in **JavaScript, Node.js, React, and MongoDB**, with hands-on experience through various personal and academic projects. 
+I’m **Computer Engineering graduate**, a motivated and enthusiastic entry-level MERN stack developer with a strong foundation in web development, problem-solving skills, and a keen interest in creating efficient and scalable web applications. I pursued Diploma in Web Page Designing and Development Program Certified by Government of India (BECIL) and Diploma in UI/UX Front End Web Development. Proficient in **JavaScript, Node.js, React, TypeScript and MongoDB**, with hands-on experience through various personal and academic projects. 
 
 ## Sharing my project work here
 
@@ -12,6 +12,7 @@ I’m **Computer Engineering graduate**, a motivated and enthusiastic entry-leve
 
 ### Vite-React-TypeScript Application
 1. New Game Registration
+2. ToDo List
 
 
 ### React Applications
