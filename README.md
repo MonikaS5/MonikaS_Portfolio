@@ -10,15 +10,19 @@ I’m **Computer Engineering graduate**, a motivated and enthusiastic entry-leve
 3. Social Media Blog Application
 4. JWT Authentication
 
+### Vite-React-TypeScript Application
+1. New Game Registration
+
+
 ### React Applications
 1. Form Application
-2. Multipage Apllication
+2. Multi-page Application
 
 ### Using HTML5, CSS3, Javascript and Bootstrap
 
-1. Medical / Hospital website (Multipage website)
+1. Medical / Hospital website (Multi-page website)
 2. Automotive website (clone of Harley-Davidson UK website)
-3. Education website (Multipage)
+3. Education website (Multi-page)
 4. E-Commerce website (clone of Amazon UK website)
 5. Sports website (Skateboarding)
 6. Hotel website
