@@ -307,8 +307,10 @@ h1 {
 
 
 div.imageM::before {
-  content: url(../image/illustration/Monika.png);
+  content: url(../image/illustration/MonikaS.png);
   filter: grayscale(50%);
+  pointer-events: none;
+  user-select: none;
 }
 
 ​
